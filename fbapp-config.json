@@ -1,0 +1,13 @@
+{
+  "instant_games": {
+    "platform_version": "RICH_GAMEPLAY",
+    "orientation": "PORTRAIT",
+    "override_web_config": {},
+    "navigation_menu_version": "NAV_FLOATING",
+    "custom_update_templates": {
+      "score_share": {
+        "example": "Lee vừa phá tháp màn 42 trong Blob Rush! Bạn dẫn đám đông đi xa hơn không?"
+      }
+    }
+  }
+}
